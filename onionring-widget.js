@@ -1,8 +1,8 @@
-// onionring.js is made up of four files - onionring-widget.js (this one!), onionring-index.js, onionring-variables.js and onionring.css
+// zaring.js is made up of four files - zaring-widget.js (this one!), zaring-index.js, zaring-variables.js and zaring.css
 // it's licensed under the cooperative non-violent license (CNPL) v4+ (https://thufie.lain.haus/NPL.html)
 // it was originally made by joey + mord of allium (蒜) house, last updated 2020-11-24
 
-// === ONIONRING-WIDGET ===
+// === ZAR-RING-WIDGET ===
 //this file contains the code which builds the widget shown on each page in the ring. ctrl+f 'EDIT THIS' if you're looking to change the actual html of the widget
 
 var tag = document.getElementById(ringID); //find the widget on the page
